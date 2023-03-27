@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(20, 20, 20);
+    color: rgb(250, 250, 250);
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+#bio {
+    position: absolute;
+    width: 50%;
+    padding-left: 5%;
+    font-size: larger;
+}
+
+#image-scroll {
+    position: relative;
+    display: flex;
+    float: right;
+    width: 25%;
+    padding-right: 5%;
+}
+
+#emil-main-bild {
+    width: 90%;
+}
+
+#forward-button-image-scroll {
+    position: relative;
+    margin-right: 2%;
+    font-size: 5rem;
+    border: none;
+}
+
+#backward-button-image-scroll {
+    position: relative;
+    margin-left: 2%;
+    font-size: 5rem;
+    border: none;
+}
