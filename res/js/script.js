@@ -9,7 +9,7 @@ var image = document.getElementById("emil-main-bild");
 const path = "./res/image/";
 
 var index = 0;
-var images = ["test-image.jpg", "emil.png"];
+var images = ["emil1.jpg", "emil2.jpg", "emil3.jpg", "emil4.jpg"];
 
 
 forward_button.onclick = () => {
